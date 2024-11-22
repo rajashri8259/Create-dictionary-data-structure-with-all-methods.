@@ -3,10 +3,12 @@
 ## IMPORTANCE
 #### The project implements a Custom Dictionary in Python, mimicking the behavior of Python's built-in dictionary. It provides functionalities like adding, updating, retrieving, deleting key-value pairs, checking for keys, and more. Additionally, it includes a menu-based interactive interface for users to perform operations on the custom dictionary.
 
+
 ## The project is usefull as it provides:
 #### Learning Tool: Helps beginners understand dictionary operations and their implementations.
 #### Customization: Allows extending and customizing dictionary functionalities as needed.
 #### Practice with Classes: Introduces object-oriented programming concepts through practical implementation.
+
 
 ## This is how users can get started with the Project
 #### Clone or copy the Python script to your local machine.
@@ -17,6 +19,7 @@
 #### Reinforces core programming concepts (loops, conditionals, input/output).
 #### Introduces object-oriented principles like encapsulation and method reuse.
 #### Simulates real-world use cases of dictionaries in data manipulation.
+
 
 ## About the code
 #### We wraps Python's built-in dictionary functionalities with additional methods.
@@ -37,6 +40,7 @@
 #### Exit (14): Exits the program.
 
 #### The user interface is a menu-based console program.
+
 
 ## Purpose of the Code:
 ####  The code demonstrates how to implement a reusable, interactive system for dictionary management in Python. It simplifies operations and improves user interaction by encapsulating logic in a class and offering a menu-driven interface.
