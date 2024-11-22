@@ -3,12 +3,12 @@
 ## IMPORTANCE
 #### The project implements a Custom Dictionary in Python, mimicking the behavior of Python's built-in dictionary. It provides functionalities like adding, updating, retrieving, deleting key-value pairs, checking for keys, and more. Additionally, it includes a menu-based interactive interface for users to perform operations on the custom dictionary.
 
-### The project is usefull as it provides:
+## The project is usefull as it provides:
 #### Learning Tool: Helps beginners understand dictionary operations and their implementations.
 #### Customization: Allows extending and customizing dictionary functionalities as needed.
 #### Practice with Classes: Introduces object-oriented programming concepts through practical implementation.
 
-### This is how users can get started with the Project
+## This is how users can get started with the Project
 #### Clone or copy the Python script to your local machine.
 #### Ensure Python is installed.
 #### Run the script and interact with the menu to explore dictionary operations.
